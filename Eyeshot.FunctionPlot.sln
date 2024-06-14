@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eyeshot.FunctionPlot", "Eyeshot.FunctionPlot\Eyeshot.FunctionPlot.csproj", "{EA0065F2-B8A8-4CC9-942A-D7D6E183E42A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA0065F2-B8A8-4CC9-942A-D7D6E183E42A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA0065F2-B8A8-4CC9-942A-D7D6E183E42A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA0065F2-B8A8-4CC9-942A-D7D6E183E42A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA0065F2-B8A8-4CC9-942A-D7D6E183E42A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2307CCFF-D01B-469E-9880-81AEB50A5A7B}
+	EndGlobalSection
+EndGlobal
